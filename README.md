@@ -19,5 +19,7 @@ For support, email navneetsatyamkumar@gmail.com.com
 
 If you have any feedback, please reach out to me at navneetsatyamkumar@gmail.com
 
+## Output:
+![](https://satyamkumarnavneetportfolio.netlify.app/images/Student-Management-System%20From%20CLI.png)
 
 
